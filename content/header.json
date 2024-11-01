@@ -28,6 +28,6 @@
       }
     ],
     "phone_wpp": true,
-    "socials": true
+    "socials": false
   }
 }
